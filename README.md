@@ -8,7 +8,7 @@
   - [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)*
   - [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71?source=---------5------------------)*
   - [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0?source=---------4------------------)*
-- [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+- [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)*
 - [How to become a Data Engineer (in Russian)](https://khashtamov.com/ru/data-engineer/)
 - [Introduction to Apache Airflow (in Russian)](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng)
 
